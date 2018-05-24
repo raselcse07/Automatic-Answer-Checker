@@ -1,6 +1,6 @@
 # Automatic-Answer-Checker
 
-Automatic answer checker AI app that can check your provided answer and judge it.After checking,it provides a score according to your answer.
+Automatic answer checker is an AI app that can check your provided answer and judge it.After checking,it provides a score according to your answer.
 
 # Dependencies
 
